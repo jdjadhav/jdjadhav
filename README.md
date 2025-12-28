@@ -1,5 +1,5 @@
 ## 💫 About Me:
-# Hi 👋, I'm Jay Jadhav  <br><br>🎓 Computer Science Engineering Student  <br>💻 Passionate about Software Development, AI, Cloud & Prompt Engineering  <br>🚀 Always learning, building, and improving  <br><br>---<br><br>## 🚀 I'm currently working on<br>- AI-powered projects & automation tools  <br>- Prompt Engineering for AI applications  <br>- Web development projects  <br>- Cloud-based applications  <br><br>## 🤝 I'm looking to collaborate on<br>- Open-source projects  <br>- AI / ML based applications  <br>- Prompt Engineering use-cases  <br>- Cloud-native web applications  <br><br>## 🌱 I'm currently learning<br>- Machine Learning & Artificial Intelligence  <br>- Prompt Engineering (LLMs & AI tools)  <br>- Web Technologies  <br>- DBMS, Operating Systems & Cloud Computing  <br><br>## 💬 Ask me about<br>- Java, Python, C  <br>- HTML, CSS, JavaScript  <br>- Prompt Engineering & AI tools  <br>- Cloud basics & deployment  <br>- DBMS & OS fundamentals  <br><br>## ⚡ Fun fact<br>- I enjoy simplifying complex problems into efficient AI-driven solutions 😄  <br><br>---<br><br>## 🛠️ Tech Stack<br><br>**Languages:**  <br>`Java` `Python` `C` `JavaScript`<br><br>**Frontend:**  <br>`HTML` `CSS` `React`<br><br>**Backend & Databases:**  <br>`MySQL` `MongoDB` `Firebase`<br><br>**Cloud & AI:**  <br>`IBM Cloud` `Google Cloud` `Prompt Engineering` `Machine Learning`<br><br>**Tools:**  <br>`Git` `GitHub`<br><br>---<br><br>
+# Hi 👋, I'm Jay Jadhav  <br><br>🎓 Computer Science Engineering Student  <br>💻 Passionate about Software Development🛠️ Tech Stack<br><br>**Languages:**  <br>`Java` `Python` `C` `JavaScript`<br><br>**Frontend:**  <br>`HTML` `CSS` `React`<br><br>**Backend & Databases:**  <br>`MySQL` `MongoDB` `Firebase`<br><br>**Cloud & AI:**  <br>`IBM Cloud` `Google Cloud` `Prompt Engineering` `Machine Learning`<br><br>**Tools:**  <br>`Git` `GitHub`<br><br>---<br><br>
 
 
 ## 🌐 Socials:
@@ -15,19 +15,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=jdjadhav&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--
-**jdjadhav/jdjadhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
