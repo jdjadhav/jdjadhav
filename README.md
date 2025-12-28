@@ -1,5 +1,5 @@
-## 💫 About Me:
-# Hi 👋, I'm Jay Jadhav  <br><br>🎓 Computer Science Engineering Student  <br>💻 Passionate about Software Development🛠️ Tech Stack<br><br>**Languages:**  <br>`Java` `Python` `C` `JavaScript`<br><br>**Frontend:**  <br>`HTML` `CSS` `React`<br><br>**Backend & Databases:**  <br>`MySQL` `MongoDB` `Firebase`<br><br>**Cloud & AI:**  <br>`IBM Cloud` `Google Cloud` `Prompt Engineering` `Machine Learning`<br><br>**Tools:**  <br>`Git` `GitHub`<br><br>---<br><br>
+
+## Hi 👋, I'm Jay Jadhav  <br><br>🎓 Computer Science Engineering Student  <br>💻 Passionate about Software Development🛠️ Tech Stack<br><br>**Languages:**  <br>`Java` `Python` `C` `JavaScript`<br><br>**Frontend:**  <br>`HTML` `CSS` `React`<br><br>**Backend & Databases:**  <br>`MySQL` `MongoDB` `Firebase`<br><br>**Cloud & AI:**  <br>`IBM Cloud` `Google Cloud` `Prompt Engineering` `Machine Learning`<br><br>**Tools:**  <br>`Git` `GitHub`<br><br>---<br><br>
 
 
 ## 🌐 Socials:
