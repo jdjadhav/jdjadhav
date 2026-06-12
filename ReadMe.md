@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:1a6b4a&height=200&section=header&text=Jay%20Jadhav&fontSize=60&fontColor=00ff88&fontAlignY=38&desc=Backend%20Developer%20%7C%20Data%20Analyst%20%7C%20AI%20Enthusiast&descAlignY=58&descColor=8b949e&animation=fadeIn" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:1a6b4a&height=200&section=header&text=Jay%20Jadhav&fontSize=60&fontColor=00ff88&fontAlignY=38&desc=Backend%20Developer%20%7C%20Data%20Analyst%20%7C%20AI%20Enthusiast&descAlignY=58&descColor=8b949e&animation=fadeIn" />
-</p>
-
 <h2 align="center">Hi 👋, I'm Jay Jadhav</h2>
 
 <p align="center">🚀 Backend Developer | 📊 Data Analyst | 🤖 AI & Automation Enthusiast</p>
