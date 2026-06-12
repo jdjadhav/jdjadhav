@@ -16,11 +16,10 @@
 
 ## ⚙️ About Me
 
-- 🔧 I'm currently working on **Automated Business Metric Engine**
-- 🌱 I'm currently learning **Spring Boot, Advanced SQL, Power BI DAX & Data Engineering**
+- 🔧 I'm currently working on *Java Database Project*
+- 🌱 I'm currently learning **Spring Boot,  SQL , Microservices **
 - 💡 Passionate about **Backend Systems, Automation & Data Analytics**
 - 🎯 Focused on building **scalable systems and impactful dashboards**
-- ⚡ Fun Fact: I enjoy converting messy raw data into clean insights 📊
 - 📫 Reach me at **jadhavjd030@gmail.com**
 
 ---
