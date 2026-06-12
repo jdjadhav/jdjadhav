@@ -52,13 +52,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jdjadhav&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=jdjadhav&theme=tokyonight)
 
----
-
-## 🎮 Pac-Man Contribution Graph:
-
-![Pac-Man](https://raw.githubusercontent.com/jdjadhav/jdjadhav/pacman-output/pacman-contribution-graph.svg)
-
----
 
 <p align="center">Made with ❤️ by Jay Jadhav</p>
 
