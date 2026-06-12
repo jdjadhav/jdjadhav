@@ -19,6 +19,6 @@
 </p>
 
 
-![Pac-Man](https://raw.githubusercontent.com/JayJadhav/JayJadhav/pacman-output/pacman-contribution-graph.svg)
+![Pac-Man](https://raw.githubusercontent.com/jdjadhav/jdjadhav/pacman-output/pacman-contribution-graph.svg)
 
 
