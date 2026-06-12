@@ -1,7 +1,66 @@
-## Hi 👋 I'm Jay Jadhav
-🏫GHRCEMP-27<br>🎓 Computer Science Engineering Student  <br>
-💻 Passionate about Software Development🛠️ Tech Stack<br><br>**Languages:**  <br>`Java` `Python` `C` `JavaScript`<br><br>**Frontend:**  <br>`HTML` `CSS` `React`<br><br>**Backend & Databases:**  <br>`MySQL` `MongoDB` `Firebase`<br><br>**Cloud & AI:**  <br>`IBM Cloud` `Google Cloud` `Prompt Engineering` `Machine Learning`<br><br>**Tools:**  <br>`Git` `GitHub`<br><br>
+# Hi 👋, I'm Jay Jadhav
 
+### 🚀 Backend Developer | 📊 Data Analyst | 🤖 AI & Automation Enthusiast
+
+![Profile Views](https://komarev.com/ghpvc/?username=jdjadhav&color=blue)
+![Followers](https://img.shields.io/github/followers/jdjadhav?style=social)
+![Stars](https://img.shields.io/github/stars/jdjadhav?style=social)
+
+---
+
+## ⚙️ About Me
+
+- 🔧 I'm currently working on **Automated Business Metric Engine**
+- 🌱 I'm currently learning **Spring Boot, Advanced SQL, Power BI DAX & Data Engineering**
+- 💡 Passionate about **Backend Systems, Automation & Data Analytics**
+- 🎯 Focused on building **scalable systems and impactful dashboards**
+- ⚡ Fun Fact: I enjoy converting messy raw data into clean insights 📊
+- 📫 Reach me at **jadhavjd030@gmail.com**
+
+---
+
+## 🛠️ Tech Stack:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jdjadhav/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/j.d.jadhav/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jadhavjd030@gmail.com)
+
+---
+
+## 📊 GitHub Stats:
+
+![Jay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jdjadhav&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jdjadhav&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=jdjadhav&theme=tokyonight)
+
+---
+
+## 🎮 Pac-Man Contribution Graph:
+
+![Pac-Man](https://raw.githubusercontent.com/jdjadhav/jdjadhav/pacman-output/pacman-contribution-graph.svg)
+
+---
+
+<p align="center">Made with ❤️ by Jay Jadhav</p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jdjadhav48)
