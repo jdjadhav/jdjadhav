@@ -50,15 +50,16 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/j.d.jadhav/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jadhavjd030@gmail.com)
 
----
-
 ## 📊 GitHub Stats:
 
-![Jay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jdjadhav&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jdjadhav&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=jdjadhav&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jdjadhav&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdjadhav&layout=compact&theme=tokyonight" height="180" />
+</p>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jdjadhav&theme=tokyonight" height="180" />
+</p>
 
 ## 🎮 Pac-Man Contribution Graph:
 
