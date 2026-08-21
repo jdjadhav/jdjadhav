@@ -69,4 +69,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:1a6b4a&height=100&section=footer&animation=fadeIn" />
 </p>
-bye
